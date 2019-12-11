@@ -1,8 +1,9 @@
 fileFormatVersion: 2
 guid: 0309318c4d3de3b4eb23dc02c52d6871
-NativeFormatImporter:
+labels:
+- snaps002
+PrefabImporter:
   externalObjects: {}
-  mainObjectFileID: 100100000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
